@@ -1,1 +1,3 @@
-linearSearch(arr, size, elementToSearch) == 0
+inserted and it's position: ";
+    // cin >> element >> index;
+    // insert(arr, size, element, index);
