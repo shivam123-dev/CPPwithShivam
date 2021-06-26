@@ -1,0 +1,1 @@
+linearSearch(arr, size, elementToSearch) == 0
